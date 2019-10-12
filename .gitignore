@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/version0/build/
+/version0/build/classes/java/main/
+/version0/build/classes/java/test/
+/version1/build/
+/version1/build/classes/java/main/
+/version1/build/classes/java/test/
+/version2/build/
+/version2/build/classes/java/main/
+/version2/build/classes/java/test/
+/version3/build/
+/version3/build/classes/java/main/
+/version3/build/classes/java/test/

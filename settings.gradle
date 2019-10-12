@@ -1,0 +1,6 @@
+rootProject.name = 'refactoring'
+include 'version1'
+include 'version0'
+include 'version2'
+include 'version3'
+
